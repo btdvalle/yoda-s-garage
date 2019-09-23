@@ -1,0 +1,11 @@
+@import "layouts/starshiplist";
+@import "layouts/starship";
+@import "layouts/header";
+
+body {
+  margin: 0;
+  font-family: "Montserrat", sans-serif;
+  background: black;
+  color: white;
+  background-image: url("../images/bg.png");
+}

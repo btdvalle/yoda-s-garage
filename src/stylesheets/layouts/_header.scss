@@ -1,0 +1,20 @@
+.header {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: center;
+  padding: 15px;
+  background: rgba(255, 255, 255, 0.05);
+
+  &_img {
+    width: 150px;
+    margin: 10px;
+    border-radius: 50%;
+  }
+
+  &_h1 {
+    margin: 40px;
+    margin-top: 60px;
+    font-size: 50px;
+    color: lightgray;
+  }
+}
